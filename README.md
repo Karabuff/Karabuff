@@ -29,10 +29,10 @@ Par ordre de création :
 
 ## Compétences techniques
 
-- Php (symfony, twig)
-- js Vanilla
-- boostrap
-- mysql
+- PHP (Symfony, Twig)
+- JS Vanilla
+- Boostrap
+- MySQL
 
 ## Mon projet Professionnel 👯
 
