@@ -9,8 +9,7 @@ Vous trouverez ici mes projet réalisé lors de ma formation a la wild code scho
 
 Par ordre de création :
 
-#### *Projet 0 : colchis | "mon premier site web"
-
+- Projet 0 : colchis | "mon premier site web"
 Création de 3-4 page, pour etre admis a la formation.
 
 - Projet 1 : Cat-watch | site de veille technologique
